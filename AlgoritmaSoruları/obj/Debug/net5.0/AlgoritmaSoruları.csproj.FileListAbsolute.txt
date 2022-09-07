@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\bin\Debug\net5.0\AlgoritmaSoruları.exe
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\bin\Debug\net5.0\AlgoritmaSoruları.deps.json
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\bin\Debug\net5.0\AlgoritmaSoruları.runtimeconfig.json
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\bin\Debug\net5.0\AlgoritmaSoruları.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\bin\Debug\net5.0\AlgoritmaSoruları.dll
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\bin\Debug\net5.0\AlgoritmaSoruları.pdb
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\obj\Debug\net5.0\AlgoritmaSoruları.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\obj\Debug\net5.0\AlgoritmaSoruları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\obj\Debug\net5.0\AlgoritmaSoruları.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\obj\Debug\net5.0\AlgoritmaSoruları.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\obj\Debug\net5.0\AlgoritmaSoruları.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\obj\Debug\net5.0\AlgoritmaSoruları.dll
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\obj\Debug\net5.0\refint\AlgoritmaSoruları.dll
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\obj\Debug\net5.0\AlgoritmaSoruları.pdb
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\obj\Debug\net5.0\AlgoritmaSoruları.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Pratikler\AlgoritmaSoruları\obj\Debug\net5.0\ref\AlgoritmaSoruları.dll
