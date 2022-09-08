@@ -33,14 +33,15 @@ namespace AlgoritmaSoruları
             Console.Write("Lütfen 2. sayıyı giriniz: ");
             int sayi2 = int.Parse(Console.ReadLine());
 
-            int[] sayilarDizisi = new int[sayi1];
-            for (int i = 0; i < sayilar.Length; i++)
+            string[] sayilarDizisi = new string[sayi1];
+            int[] sayilarDiziInt = new int[sayi1];
+            for (int i = 0; i < sayilarDizisi.Length; i++)
             {
                 Console.WriteLine("Lütfen {0}. pozitif sayıyı giriniz: ", i+1);
-                sayilarDizisi[i] = int.Parse(Console.ReadLine());
+                sayilarDiziInt[i] = int.Parse(Console.ReadLine());
             }
 
-            foreach (var sayi in sayilar)
+            foreach (var sayi in sayilarDiziInt)
             {
                 if (sayi==sayi2 || sayi%sayi2==0)
                 {
@@ -49,7 +50,7 @@ namespace AlgoritmaSoruları
             }
 
             //Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin (n). Sonrasında kullanıcıdan n adet kelime girmesi isteyin. Kullanıcının girişini yaptığı kelimeleri sondan başa doğru console'a yazdırın
-             Console.Write("Pozitif bir sayı giriniz: ");
+            Console.Write("Pozitif bir sayı giriniz: ");
             int p = int.Parse(Console.ReadLine());
             Console.WriteLine("{0} adet kelime giriniz:",p);
             string kelimeler = Console.ReadLine();
@@ -72,14 +73,9 @@ namespace AlgoritmaSoruları
             Console.Write("Lütfen bir cümle giriniz: ");
             string cumle = Console.ReadLine();
             string[] cumleDizi = cumle.Split(' ');
-            Console.WriteLine("Cümledeki toplam kelime sayısı:{0} ",dizi.Length);
-            string karakter=string.Join("", dizi);
-            int sayac = 0;
-            for (int i = 0; i < karakter.Length; i++)
-            {
-                sayac++;
-            }
-            Console.WriteLine("Cümledeki toplam harf sayısı:{0}",sayac);
+            Console.WriteLine("Cümledeki toplam kelime sayısı:{0} ",cumleDizi.Length);
+            
+            Console.WriteLine("Cümledeki toplam harf sayısı:{0}",cumle.Length);
 
            
         }
